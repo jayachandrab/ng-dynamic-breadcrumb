@@ -1,5 +1,5 @@
 {
-  "name": "ng7-dynamic-breadcrumb",
+  "name": "opex-ng7-dynamic-breadcrumb",
   "description": "Angular 14 Dynamic Breadcrumb",
   "version": "8.0.0",
   "peerDependencies": {
